@@ -21,7 +21,7 @@ following:
 
 ::
 
-    pip install --upgrade git+https://github.com/Grunny/zap-cli.git
+    pip install --upgrade git+https://github.com/niko0xdev/py-zap-cli.git
 
 To install ZAP CLI for development, including the dependencies needed
 in order to run unit tests, clone this repository and use

@@ -21,13 +21,13 @@ with open('README.rst', 'r') as f:
     long_description = f.read()
 
 setup(
-    name='zapcli',
+    name='pyzapcli',
     version=version,
     description='A ZAP CLI tool for targeted tests from the command line.',
     long_description=long_description,
-    url='https://github.com/Grunny/zap-cli',
-    author='Daniel Grunwell (grunny)',
-    author_email='mwgrunny@gmail.com',
+    url='https://github.com/niko0xdev/py-zap-cli',
+    author='Niko',
+    author_email='niko0xdev@gmail.com',
     license='MIT',
     packages=[
         'zapcli',
