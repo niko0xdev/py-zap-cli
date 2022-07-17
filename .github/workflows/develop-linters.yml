@@ -1,4 +1,4 @@
-name: PyZapCLI Development Linters
+name: Development Linters
 
 on:
   push:

@@ -1,4 +1,4 @@
-name: PyZapCLI Release
+name: Release
 
 on:
   release:
